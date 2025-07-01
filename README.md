@@ -1,72 +1,40 @@
-<!-- 👋 Welcome Section -->
-<h1 align="center">Hi 👋, I'm Abdul Halim Taha</h1>
-<h3 align="center">💻 A passionate software engineering student from Egypt</h3>
-
-<!-- 🌟 Personal Summary -->
+<!-- 👋 Welcome & Visitor Count -->
 <p align="center">
-  I'm currently studying Information Systems at <strong>Madina Academy</strong> (2022–2026). <br />
-  I’m passionate about reading, writing, and continuously learning new technologies and programming skills.
-</p>
-
----
-
-<!-- 📫 Contact -->
-### 📞 Contact Me
-
-- 📧 Email: [abdotaha.my@gmail.com](mailto:abdotaha.my@gmail.com)  
-- 📱 Phone: +20 1125055647  
-- 🌍 Location: Giza, Nahya  
-- 🔗 LinkedIn: [My Profile](https://www.linkedin.com/in/nourhan-hany-a7089936a/)
-
----
-
-<!-- 🧠 Skills -->
-### 💡 Skills & Tools
-
-- 💻 Programming: Visual Basic, SQL
-- 🧠 Problem Solving & Logical Thinking
-- 🐞 Debugging & Conflict Resolution
-- ✍️ Oral and Written Communication
-- 📚 Quick Learner & Tech Enthusiast
-
----
-
-<!-- 🌐 Languages -->
-### 🌐 Languages
-
-- 🇪🇬 Arabic: Native / Fluent  
-- 🇬🇧 English: Intermediate
-
----
-
-<!-- 📚 Education -->
-### 🎓 Education
-
-- **Bachelor of Information Systems**  
-  *Madina Academy – 2022–2026*  
-  - Participated in a Visual Basic project  
-  - Built a database system using SQL  
-  - On the honor roll 3 years in a row 🏅
-
----
-
-<!-- ❤️ Interests -->
-### 🎯 Interests
-
-- Programming and exploring new technologies  
-- Reading & creative writing  
-
----
-
-<!-- 📈 GitHub Stats -->
-### 📊 GitHub Stats
-
-![Abdulhalim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulhalimtaha&show_icons=true&theme=radical)
-
----
-
-<!-- 📩 Visitor Counter -->
-<p align="center">
-  Visitor Count<br>
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/abdulhalimtaha/count.svg" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Abdul Halim Taha</h1>
+<h3 align="center">A passionate software engineering student from Egypt</h3>
+
+<!-- 🛠️ Languages and Tools -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-basic.png" alt="visual-basic" width="40" height="40"/> </a>
+</p>
+
+<!-- 📈 GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulhalimtaha&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+<!-- 📰 Medium Articles -->
+<details open>
+ <summary> 📝 <b>Medium Published Articles</b> </summary>
+ <br>
+ <p>No Medium articles linked yet.</p>
+</details>
+
+<!-- 🎧 Spotify -->
+### 🎧 Spotify Playing
+<!-- يمكنك إضافة حساب Spotify هنا إذا أردت -->
+![spotify-github-profile](/img/default.svg)
+
+<!-- 🧠 WakaTime -->
+### ⏱ Weekly Development Stats
+<!--START_SECTION:waka-->
+```txt
+No activity tracked
