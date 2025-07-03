@@ -2,7 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/abdelhalim-taha/count.svg" />
 </p> -->
-
+![Abdo Taha (4)](https://github.com/user-attachments/assets/883963dd-6923-4114-bd28-57989873b4d4)
 <h1 align="center">Hi 👋, I'm Abdel Halim Taha</h1>
 <h3 align="center">A passionate developer</h3>
 
@@ -14,6 +14,7 @@
 - ⚡ Fun fact: I love building beautiful UIs with Flutter.
 
 ---
+
 
  🛠️ Languages and Tools
 
