@@ -17,10 +17,29 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/> </a>
-  <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/dart.png" alt="Dart"/> </a>
-</p>
+[![Flutter](https://img.icons8.com/color/48/flutter.png)](https://flutter.dev/)
+[![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
+[![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
+[![Python](https://img.icons8.com/color/48/python.png)](https://www.python.org/)
+[![SQL Server](https://img.icons8.com/fluency/48/microsoft-sql-server.png)](https://www.microsoft.com/en-us/sql-server)
+
+### 🛠️ My Skills & Experience Level:
+
+**Flutter**  
+▰▰▰▰▰▰▰▱▱▱ (7/10)
+
+**Dart**  
+▰▰▰▰▰▰▰▱▱▱ (7/10)
+
+**Android**  
+▰▰▰▰▰▰▱▱▱▱ (6/10)
+
+**SQL Server**  
+▰▰▰▰▰▰▱▱▱▱ (6/10)
+
+**Python**  
+▰▰▰▰▰▱▱▱▱▱ (5/10)
+
 
 ---
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abdelhalim-taha)
