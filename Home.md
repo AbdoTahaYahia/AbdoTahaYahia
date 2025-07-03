@@ -17,27 +17,15 @@
 ---
 
 
-🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 
-<a href="https://flutter.dev" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-</a>
+[![Flutter](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)](https://flutter.dev/)
+[![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
+[![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
+[![Python](https://www.python.org/static/community_logos/python-powered-w-100x40.png)](https://www.python.org/)
+[![SQL Server](https://svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.microsoft.com/en-us/sql-server)
+[![Visual Basic](https://upload.wikimedia.org/wikipedia/commons/8/87/VB.NET_Logo.svg)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
-<a href="https://dart.dev/">
-  <img src="https://img.icons8.com/color/48/dart.png" alt="Dart" width="48" height="48" />
-</a>
-<a href="https://developer.android.com/">
-  <img src="https://img.icons8.com/color/48/android-os.png" alt="Android" width="48" height="48" />
-</a>
-<a href="https://www.python.org/">
-  <img src="https://www.python.org/static/community_logos/python-powered-w-100x40.png" alt="Python" width="48" height="48" />
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="48" height="48" />
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/VB.NET_Logo.svg" alt="Visual Basic" width="48" height="48" />
-</a>
 
 
 
