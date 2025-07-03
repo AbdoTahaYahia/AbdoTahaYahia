@@ -23,7 +23,7 @@
 [![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
 [![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
 [![SQL Server](https://img.icons8.com/external-flat-juicy-fish/48/external-sql-coding-and-development-flat-flat-juicy-fish.png)](https://www.microsoft.com/en-us/sql-server)
-[![Visual Basic](https://img.icons8.com/external-flat-juicy-fish/48/external-basic-programming-languages-flat-flat-juicy-fish.png)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)  
+[![Visual Basic](https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 [![Python](https://img.icons8.com/color/48/python.png)](https://www.python.org/)
 
 
