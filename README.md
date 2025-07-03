@@ -21,7 +21,7 @@
 [![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
 [![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
 [![Python](https://img.icons8.com/color/48/python.png)](https://www.python.org/)
-[![SQL Server](https://img.icons8.com/fluency/48/microsoft-sql-server.png)](https://www.microsoft.com/en-us/sql-server)
+[![SQL Server](https://img.icons8.com/external-flat-juicy-fish/48/external-sql-coding-and-development-flat-flat-juicy-fish.png)](https://www.microsoft.com/en-us/sql-server)
 
 ### 🛠️ My Skills & Experience Level:
 
