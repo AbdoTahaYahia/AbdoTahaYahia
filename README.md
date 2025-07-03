@@ -24,10 +24,7 @@
 [![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
 [![Python](https://img.icons8.com/color/48/python.png)](https://www.python.org/)
 [![SQL Server](https://img.icons8.com/external-flat-juicy-fish/48/external-sql-coding-and-development-flat-flat-juicy-fish.png)](https://www.microsoft.com/en-us/sql-server)
-
-<a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/VB.NET_Logo.svg" alt="Visual Basic" width="48" height="48" />
-</a>
+[![Visual Basic](https://img.icons8.com/color/48/source-code.png)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 
 Connect with me
