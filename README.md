@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+ 🛠️ Languages and Tools
 
 [![Flutter](https://img.icons8.com/color/48/flutter.png)](https://flutter.dev/)
 [![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
@@ -24,7 +24,7 @@
 [![Python](https://img.icons8.com/color/48/python.png)](https://www.python.org/)
 
 
-
+Connect with me
 ---
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abdelhalim-taha)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/abdo.taha.abu.hamid)
