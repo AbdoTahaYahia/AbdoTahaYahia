@@ -23,19 +23,7 @@
 </p>
 
 ---
-### 📬 Contact Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdelhalim-taha" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="border: none;"/>
-  </a>
-  <a href="https://www.facebook.com/abdo.taha.abu.hamid" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" style="border: none;"/>
-  </a>
-  <a href="https://www.instagram.com/abdo.taha.abu.hamid?igsh=MXZyZW51ZDg2Ynk5bw==" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" style="border: none;"/>
-  </a>
-  <a href="https://wa.me/201125055647" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" style="border: none;"/>
-  </a>
-</p>
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abdelhalim-taha)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/abdo.taha.abu.hamid)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/abdo.taha.abu.hamid?igsh=MXZyZW51ZDg2Ynk5bw==)
+[![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/201125055647)
