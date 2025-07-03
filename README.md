@@ -24,18 +24,20 @@
 
 ---
 
-### Connect with me:
+### 📬 Contact Me:
 
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/abdelhalim-taha#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/abdelhalim-taha#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![facebook](./img/facebook-light.svg)](https://www.facebook.com/abdo.taha.abu.hamid#gh-light-mode-only)
-[![facebook](./img/facebook-dark.svg)](https://www.facebook.com/abdo.taha.abu.hamid#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://www.instagram.com/abdo.taha.abu.hamid?igsh=MXZyZW51ZDg2Ynk5bw==#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/abdo.taha.abu.hamid?igsh=MXZyZW51ZDg2Ynk5bw==#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![whatsapp](./img/whatsapp-light.svg)](https://wa.me/201125055647#gh-light-mode-only)
-[![whatsapp](./img/whatsapp-dark.svg)](https://wa.me/201125055647#gh-dark-mode-only)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdelhalim-taha" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/abdo.taha.abu.hamid" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/abdo.taha.abu.hamid?igsh=MXZyZW51ZDg2Ynk5bw==" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/201125055647" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp"/>
+  </a>
+</p>
 
