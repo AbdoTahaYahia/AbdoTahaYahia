@@ -19,7 +19,7 @@
 
 ### 🛠️ Languages and Tools
 
-[![Flutter](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)](https://flutter.dev/)
+[![Flutter]([https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png](https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000))](https://flutter.dev/)
 [![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
 [![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
 [![Python](https://www.python.org/static/community_logos/python-powered-w-100x40.png)](https://www.python.org/)
