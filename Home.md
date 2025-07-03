@@ -19,7 +19,7 @@
 
 ### 🛠️ Languages and Tools
 
-[![Visual Basic](https://img.icons8.com/ios-filled/100/000000/visual-basic.png)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+[![Flutter](https://img.icons8.com/ios-filled/100/000000/flutter.png)](https://flutter.dev/)
 [![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
 [![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
 [![Python](https://www.python.org/static/community_logos/python-powered-w-100x40.png)](https://www.python.org/)
