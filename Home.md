@@ -17,14 +17,15 @@
 ---
 
 
- 🛠️ Languages and Tools
+🛠️ Languages and Tools
 
-[![Flutter]Abdo Taha (7)](https://github.com/user-attachments/assets/a2d68092-4840-49b3-9fb0-4e21eabcd1a3)](https://flutter.dev/)
+[![Flutter](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)](https://flutter.dev/)
 [![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
 [![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
-[![Python](https://img.icons8.com/color/48/python.png)](https://www.python.org/)
-[![SQL Server](https://img.icons8.com/external-flat-juicy-fish/48/external-sql-coding-and-development-flat-flat-juicy-fish.png)](https://www.microsoft.com/en-us/sql-server)
-[![Visual Basic](https://img.icons8.com/color/48/source-code.png)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+[![Python](https://www.python.org/static/community_logos/python-powered-w-100x40.png)](https://www.python.org/)
+[![SQL Server](https://svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.microsoft.com/en-us/sql-server)
+[![Visual Basic](https://upload.wikimedia.org/wikipedia/commons/8/87/VB.NET_Logo.svg)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+
 
 
 Connect with me
