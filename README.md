@@ -27,17 +27,16 @@
 ### 📬 Contact Me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdelhalim-taha" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/abdelhalim-taha" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/abdo.taha.abu.hamid" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
+  <a href="https://www.facebook.com/abdo.taha.abu.hamid" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/abdo.taha.abu.hamid?igsh=MXZyZW51ZDg2Ynk5bw==" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  <a href="https://www.instagram.com/abdo.taha.abu.hamid?igsh=MXZyZW51ZDg2Ynk5bw==" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
   </a>
-  <a href="https://wa.me/201125055647" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp"/>
+  <a href="https://wa.me/201125055647" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" />
   </a>
 </p>
-
