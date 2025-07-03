@@ -20,7 +20,7 @@
 🛠️ Languages and Tools
 
 <a href="https://flutter.dev/">
-  <img src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png" alt="Flutter" width="48" height="48" />
+  <img src="[https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png](https://cdn.prod.website-files.com/5ee12d8d7f840543bde883de/5ef3a1148ac97166a06253c1_flutter-logo-white-inset.svg)" alt="Flutter" width="48" height="48" />
 </a>
 <a href="https://dart.dev/">
   <img src="https://img.icons8.com/color/48/dart.png" alt="Dart" width="48" height="48" />
