@@ -23,7 +23,10 @@
 [![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
 [![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
 [![Python](https://www.python.org/static/community_logos/python-powered-w-100x40.png)](https://www.python.org/)
-[![SQL Server](https://svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.microsoft.com/en-us/sql-server)
+<a href="https://www.microsoft.com/en-us/sql-server">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="48" height="48" />
+</a>
+
 [![Visual Basic](https://upload.wikimedia.org/wikipedia/commons/8/87/VB.NET_Logo.svg)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 
