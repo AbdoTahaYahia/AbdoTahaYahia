@@ -18,27 +18,16 @@
 ### 🛠️ Languages and Tools:
 
 [![Flutter](https://img.icons8.com/color/48/flutter.png)](https://flutter.dev/)
+▰▰▰▰▰▰▰▱▱▱ (7/10)
 [![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
+▰▰▰▰▰▰▰▱▱▱ (7/10)
 [![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
+▰▰▰▰▰▰▱▱▱▱ (6/10)
+[![SQL Server](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)](https://www.microsoft.com/en-us/sql-server)
+▰▰▰▰▰▰▱▱▱▱ (6/10)
 [![Python](https://img.icons8.com/color/48/python.png)](https://www.python.org/)
-[![SQL Server](https://img.icons8.com/external-flat-juicy-fish/48/external-sql-coding-and-development-flat-flat-juicy-fish.png)](https://www.microsoft.com/en-us/sql-server)
-
-### 🛠️ My Skills & Experience Level:
-
-**Flutter**  
-▰▰▰▰▰▰▰▱▱▱ (7/10)
-
-**Dart**  
-▰▰▰▰▰▰▰▱▱▱ (7/10)
-
-**Android**  
-▰▰▰▰▰▰▱▱▱▱ (6/10)
-
-**SQL Server**  
-▰▰▰▰▰▰▱▱▱▱ (6/10)
-
-**Python**  
 ▰▰▰▰▰▱▱▱▱▱ (5/10)
+
 
 
 ---
