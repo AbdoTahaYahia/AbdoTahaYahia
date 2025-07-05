@@ -24,7 +24,7 @@
 [![Android](https://img.icons8.com/color/48/android-os.png)](https://developer.android.com/)
 [![Python](https://img.icons8.com/color/48/python--v1.png)](https://www.python.org/)
 [![SQL Server](https://img.icons8.com/color/48/microsoft-sql-server.png)](https://www.microsoft.com/en-us/sql-server)
-[![Visual Basic](./img/visual-basic.png)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
+[![Visual Basic](./img/visualbasic.png)](https://learn.microsoft.com/en-us/dotnet/visual-basic/)
 
 
 
