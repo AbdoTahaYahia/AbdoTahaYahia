@@ -34,5 +34,4 @@ Connect with me
 ---
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abdelhalim-taha)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/abdo.taha.abu.hamid)
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/abdo.taha.abu.hamid?igsh=MXZyZW51ZDg2Ynk5bw==)
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/201125055647)
