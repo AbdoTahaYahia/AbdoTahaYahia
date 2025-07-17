@@ -17,7 +17,7 @@
 ---
 
 
-### 🛠️ Languages and Tools
+ Languages and Tools
 
 [![Flutter](https://img.icons8.com/color/48/flutter.png)](https://flutter.dev/)
 [![Dart](https://img.icons8.com/color/48/dart.png)](https://dart.dev/)
