@@ -14,7 +14,6 @@
 - 💬 Ask me about **Flutter, Dart**  
 - ⚡ Fun fact: I love building beautiful UIs with Flutter.
 
----
 
 
  Languages and Tools
