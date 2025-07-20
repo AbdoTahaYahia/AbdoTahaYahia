@@ -15,7 +15,6 @@
 - ⚡ Fun fact: I love building beautiful UIs with Flutter.
 
 
-
  Languages and Tools
  
 
