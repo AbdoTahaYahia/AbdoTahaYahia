@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I love building beautiful UIs with Flutter.
 
 
- Languages and Tools
+   Languages and Tools
  
 
 [![Flutter](https://img.icons8.com/color/48/flutter.png)](https://flutter.dev/)
@@ -28,8 +28,8 @@
 
 
 
-
-Connect with me
+ 
+  Connect with me
 ---
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/abdelhalim-taha)
 [![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://www.facebook.com/abdo.taha.abu.hamid)
