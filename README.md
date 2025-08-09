@@ -7,12 +7,12 @@
 <h1 align="center">Hi 👋, I'm Abdel Halim Taha</h1>
 <h3 align="center">A passionate developer</h3>
 
--  🔭 I’m currently working on improving my Flutter and Dart skills  
--  🌱 I’m currently learning advanced mobile app development  
--  👯 I’m looking to collaborate on Flutter-based projects  
--  🤝 I’m looking for help with mastering state management in Flutter  
--  💬 Ask me about **Flutter, Dart**  
--  ⚡ Fun fact: I love building beautiful UIs with Flutter.
+ -  🔭 I’m currently working on improving my Flutter and Dart skills  
+ -  🌱 I’m currently learning advanced mobile app development  
+ -  👯 I’m looking to collaborate on Flutter-based projects  
+ -  🤝 I’m looking for help with mastering state management in Flutter  
+ -  💬 Ask me about **Flutter, Dart**  
+ -  ⚡ Fun fact: I love building beautiful UIs with Flutter.
 
 
    Languages and Tools
