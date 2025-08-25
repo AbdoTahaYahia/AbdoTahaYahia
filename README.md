@@ -32,7 +32,6 @@
 ### 🌐 Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelhalim-taha"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/abdo.taha.abu.hamid"><img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/></a>
   <a href="https://wa.me/201125055647"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp"/></a>
 </p>
 
@@ -47,7 +46,7 @@
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdoTahaYahia&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AbdoTahaYahia&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
