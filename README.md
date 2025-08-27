@@ -9,12 +9,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on improving my **Flutter and Dart skills**  
-- 🌱 I’m currently learning **advanced mobile app development**  
-- 👯 I’m looking to collaborate on **Flutter-based projects**  
-- 🤝 I’m looking for help with mastering **state management in Flutter**  
-- 💬 Ask me about **Flutter, Dart**  
-- ⚡ Fun fact: I love building **beautiful UIs with Flutter** 🎨📱  
+ - 🔭 I’m currently working on improving my **Flutter and Dart skills**  
+ - 🌱 I’m currently learning **advanced mobile app development**  
+ - 👯 I’m looking to collaborate on **Flutter-based projects**  
+ - 🤝 I’m looking for help with mastering **state management in Flutter**  
+ - 💬 Ask me about **Flutter, Dart**  
+ - ⚡ Fun fact: I love building **beautiful UIs with Flutter** 🎨📱  
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 GitHub Stats
+##   🚀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdoTahaYahia&show_icons=true&theme=radical" alt="Abdo Taha's GitHub stats" />
