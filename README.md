@@ -55,7 +55,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 **Languages:** C++, Dart, C, HTML, Swift  
+- 💻 **Languages:** C++ , Dart , C , flutter ,  SQL SERVER
+  
 - ⚙️ **Tools:** Git, GitHub, CMake  
 
 ---
