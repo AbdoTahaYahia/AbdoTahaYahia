@@ -40,17 +40,13 @@
 
 ##   🚀 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdoTahaYahia&show_icons=true&theme=radical" alt="Abdo Taha's GitHub stats" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AbdoTahaYahia&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoTahaYahia&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+
 
 ---
 
