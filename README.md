@@ -36,17 +36,6 @@
   <a href="https://wa.me/201125055647"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp"/></a>
 </p>
 
----
-
-##   🚀 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdoTahaYahia&theme=radical" alt="GitHub Streak" />
-</p>
-
-
 
 ---
 
